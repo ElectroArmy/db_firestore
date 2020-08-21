@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427906137362",
+    "firebase_url": "https://fstore-db-27286.firebaseio.com",
+    "project_id": "fstore-db-27286",
+    "storage_bucket": "fstore-db-27286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427906137362:android:80b07b9c585adec8ea47cb",
+        "android_client_info": {
+          "package_name": "com.blogspot.akaarkar.db_fires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427906137362-1rlhsdebd19c98vkaoj1d2lqblqn9gc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.akaarkar.db_fires",
+            "certificate_hash": "a6c11e90a63cea0dd2517cf715e40c6c2cdb6c1d"
+          }
+        },
+        {
+          "client_id": "427906137362-913ud897brvi1mg7d5ho9sq02anouren.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjln4vcTv8rgZC6GebTePZL6xhCmfiug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427906137362-913ud897brvi1mg7d5ho9sq02anouren.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
